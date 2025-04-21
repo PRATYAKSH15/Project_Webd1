@@ -1,7 +1,5 @@
 # Pratyaksh.co - Responsive Animated Website
 
-![Website Preview](images/cover_1.jpg)
-
 A modern, responsive, and animated website built with HTML5, Bootstrap 5, and CSS3. Features smooth scrolling, animated sections, and a clean design.
 
 ## Features
